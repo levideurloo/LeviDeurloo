@@ -4,11 +4,11 @@
 
 - 👨‍💻 Some of my projects are available at [my website](https://levideurloo.nl)
 
-- 📝 I regularly write articles on [LinkedIn](https://levideurloo.nl)
+- 📝 I regularly write articles on [LinkedIn](https://linkedin.com/in/levi-d-30b092314/)
 
 - 💬 Ask me about **PHP, TypeScript, Frameworks, Swift & Java**, but feel free to ask me anything.  
 
-- 📄 Know about my experiences [levideurloo.nl](https://levideurloo.nl/assets/CV_080824.pdf)
+- 📄 Know about my experiences [my  CV](https://levideurloo.nl/assets/CV_080824.pdf)
 
 
 
