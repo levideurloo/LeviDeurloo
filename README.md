@@ -2,12 +2,11 @@
 <h3 align="center">A passionate fullstack web- and mobile app-developer from The Netherlands</h3>
 
 
-
-- 👨‍💻 All of my projects are available at [levideurloo.nl](https://levideurloo.nl)
+- 👨‍💻 Some of my projects are available at [levideurloo.nl](https://levideurloo.nl)
 
 - 📝 I regularly write articles on [levideurloo.nl](https://levideurloo.nl)
 
-- 💬 Ask me about **PHP, TypeScript, Frameworks, Swift & Java, but feel free to ask me anything.**
+- 💬 Ask me about **PHP, TypeScript, Frameworks, Swift & Java**, but feel free to ask me anything.  
 
 - 📄 Know about my experiences [levideurloo.nl](https://levideurloo.nl/assets/CV_080824.pdf)
 
